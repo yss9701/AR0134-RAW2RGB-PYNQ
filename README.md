@@ -5,3 +5,4 @@ FPGA摄像头DVP数据采集，raw转rgb，两路vdma，一路lcd显示，一路
 pynq框架下摄像头sccb配置，采集图像，转Mat，OpenCV处理  
 hls图像rgb顺序转换，resize  
 注：摄像头帧率调整0x3030寄存器  
+0x301A寄存器最后配置
